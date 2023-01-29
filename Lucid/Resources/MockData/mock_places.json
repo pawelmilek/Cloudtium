@@ -1,0 +1,34 @@
+[
+    {
+        "city": "Chicago",
+        "region": "Illinois",
+        "country": "USA",
+        "countryCode": "US",
+        "lat": 41.878113,
+        "lon": -87.629799
+    },
+    {
+        "city": "San Francisco",
+        "region": "California",
+        "country": "USA",
+        "countryCode": "US",
+        "lat": 37.774929,
+        "lon": -122.419418
+    },
+    {
+        "city": "Dallas",
+        "region": "Texas",
+        "country": "USA",
+        "countryCode": "US",
+        "lat": 32.776665,
+        "lon": -96.796989
+    },
+    {
+        "city": "Rzeszow",
+        "region": "Subcarpathian",
+        "country": "Poland",
+        "countryCode": "PL",
+        "lat": 50.040150,
+        "lon": 21.979790
+    }
+]
