@@ -1,0 +1,39 @@
+## OS X temporary files that should never be committed
+## c.f. http://www.westwind.com/reference/os-x/invisibles.html
+.DS_Store
+
+## c.f. http://www.westwind.com/reference/os-x/invisibles.html
+.Trashes
+
+## c.f. http://www.westwind.com/reference/os-x/invisibles.html
+*.swp
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## User settings
+xcuserdata/
+
+## Xcode build files -
+## NB: slash on the end, so we only remove the FOLDER, not any files that were badly named "DerivedData"
+DerivedData/
+
+## NB: slash on the end, so we only remove the FOLDER, not any files that were badly named "build"
+build/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Generated files
+*.o
+*.pyc
